@@ -12,6 +12,6 @@ My name is Rishon and I am a Computer Science student living in Israel.
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishon&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rishon&show_icons=true&theme=radical)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rishon.rishon)
