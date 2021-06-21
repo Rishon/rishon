@@ -4,7 +4,7 @@
 
 My name is Rishon and I am a Computer Science student living in Israel.
 
-## 🔧 Tools I use
+## 🔧 Tools I use 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -15,6 +15,8 @@ My name is Rishon and I am a Computer Science student living in Israel.
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rishon&show_icons=true&theme=radical)
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/185711883460935680)](https://discord.com/users/185711883460935680)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rishon.rishon)
