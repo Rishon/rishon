@@ -2,7 +2,8 @@
 
 ## Hello, I'm Rishon 👋
 
-I'm a Software Developer living in Israel.
+Self-Taught Software Developer
+from Israel
 
 ## 🔧 Tools I use 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
