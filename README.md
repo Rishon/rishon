@@ -2,9 +2,6 @@
 
 ## Hello, I'm Rishon 👋
 
-Self-Taught Software Developer
-from Israel
-
 ## 🔧 Tools I use 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
