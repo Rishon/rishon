@@ -16,7 +16,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea)
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/185711883460935680)](https://discord.com/users/185711883460935680)
+[![Discord Presence](https://lanyard.cnrad.dev/api/185711883460935680)](https://discord.com/users/185711883460935680)
 
 ### ✉️ Contact:
 [![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsrishon)
