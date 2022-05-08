@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
 
-## Hello, I'm Rishon <img src="https://i.rishon.codes/wave.gif" width="25" height="25">
+## Hello, I'm Rishon <img src="https://i.rishon.systems/wave.gif" width="25" height="25">
 
 ## 🔧 Tools I use 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
