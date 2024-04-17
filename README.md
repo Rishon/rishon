@@ -1,6 +1,7 @@
 <div align="center">
   
 # Hello 👋
+I am a 20-year-old self-taught software engineer from Israel. I have always had a passion for technology and programming, and I have been learning various coding languages and software development techniques since a young age. I am constantly learning and expanding my skillset and always looking for new challenges and opportunities to grow as a developer.
 
 ## 🔧 Tools I use 
 ![Java](https://img.shields.io/badge/-Java-black?&style=for-the-badge&logo=openjdk)
