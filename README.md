@@ -34,3 +34,6 @@ I am a 20-year-old self-taught software engineer from Israel. I have always had 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@rishon.systems)
 
 </div>
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Rishon/rishon/blob/main/background.gif?raw=true');]{x0000}$}
